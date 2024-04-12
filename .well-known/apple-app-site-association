@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "org.sanfordhealth.Patient",
+        "paths": [
+          "POC/app/test-results",
+          "POC/Billing/Summary",
+          "POC/app/letter"
+        ]
+      },
+      {
+        "appID": "org.sanfordhealth.Patient.dev",
+        "paths": [
+          "POC/app/test-results",
+          "POC/Billing/Summary",
+          "POC/app/letter"
+        ]
+      },
+      {
+        "appID": "org.sanfordhealth.Patient.uat",
+        "paths": [
+          "POC/app/test-results",
+          "POC/Billing/Summary",
+          "POC/app/letter"
+        ]
+      }
+    ]
+  }
+}
